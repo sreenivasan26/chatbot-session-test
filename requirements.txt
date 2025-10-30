@@ -1,1 +1,7 @@
-plotly==5.18.0
+torch
+transformers
+sentencepiece
+streamlit
+gradio
+notebook
+ipywidgets
