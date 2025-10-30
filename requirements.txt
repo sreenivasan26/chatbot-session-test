@@ -2,6 +2,3 @@ torch
 transformers
 sentencepiece
 streamlit
-gradio
-notebook
-ipywidgets
